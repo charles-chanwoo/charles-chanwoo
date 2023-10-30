@@ -54,6 +54,7 @@
 
 <br/> <br/> <br/> 
 # 사용하기
+## 스페이스 생성과정
 콘솔(스페이스)에 촬영 영상을 업로드하고 최종적으로 스페이스를 제작, 공유하는 방법을 안내합니다.
 <img src="" alt=""/>
 
@@ -144,11 +145,11 @@
 
 
 <br/> <br/> <br/> 
-# 스페이스 공개 및 관리
+## 스페이스 공개 및 관리
 공개한 스페이스는 콘솔(스페이스)의 스페이스 상세 페이지 또는 맥스버스 홈페이지의 스페이스 뷰어 페이지 에서 확인할 수 있습니다. 
 > 스페이스 [뷰어](https://markdownlivepreview.com/)페이지로 이동하기
 
-## 스페이스 공개
+### 스페이스 공개
 1. 가입한 이메일로 ‘스페이스’ 공개 완료 메일 수신 후 콘솔(스페이스)화면으로 이동하면 활성화된 '스페이스 공개' Step을 확인할 수 있습니다. 
 <img src="https://github.com/charles-chanwoo/console-space-docs/blob/main/images/image11_%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B3%B5%EA%B0%9C_%EB%A9%94%EC%9D%BC.png" alt="스페이스 공개_메일"/>
 
@@ -159,7 +160,7 @@
 <img src="https://github.com/charles-chanwoo/console-space-docs/blob/main/images/image11_%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B3%B5%EA%B0%9C_%EB%AA%A9%EB%A1%9D.png" alt="스페이스 공개_목록"/>
 
 
-## 스페이스 관리
+### 스페이스 관리
 생성 후 공개까지 완료된 스페이스 상세 페이지는 ‘공개 정보’, ‘Map Data’로 구성되어 있습니다.
 1. 공개 정보 탭은 스페이스 생성 과정에 등록했던 정보가 담겨 있으며 필요 시 수정할 수 있습니다.
 <img src="https://github.com/charles-chanwoo/console-space-docs/blob/main/images/image12_%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%83%81%EC%84%B8_%EA%B3%B5%EA%B0%9C%EC%A0%95%EB%B3%B4.png" alt="스페이스 상세_공개정보"/>
